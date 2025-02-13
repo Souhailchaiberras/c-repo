@@ -1,0 +1,15 @@
+C:\Users\osaka\Desktop\.net\c-repo\tp1\bin\Debug\net9.0\tp1.exe
+C:\Users\osaka\Desktop\.net\c-repo\tp1\bin\Debug\net9.0\tp1.deps.json
+C:\Users\osaka\Desktop\.net\c-repo\tp1\bin\Debug\net9.0\tp1.runtimeconfig.json
+C:\Users\osaka\Desktop\.net\c-repo\tp1\bin\Debug\net9.0\tp1.dll
+C:\Users\osaka\Desktop\.net\c-repo\tp1\bin\Debug\net9.0\tp1.pdb
+C:\Users\osaka\Desktop\.net\c-repo\tp1\obj\Debug\net9.0\tp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osaka\Desktop\.net\c-repo\tp1\obj\Debug\net9.0\tp1.AssemblyInfoInputs.cache
+C:\Users\osaka\Desktop\.net\c-repo\tp1\obj\Debug\net9.0\tp1.AssemblyInfo.cs
+C:\Users\osaka\Desktop\.net\c-repo\tp1\obj\Debug\net9.0\tp1.csproj.CoreCompileInputs.cache
+C:\Users\osaka\Desktop\.net\c-repo\tp1\obj\Debug\net9.0\tp1.sourcelink.json
+C:\Users\osaka\Desktop\.net\c-repo\tp1\obj\Debug\net9.0\tp1.dll
+C:\Users\osaka\Desktop\.net\c-repo\tp1\obj\Debug\net9.0\refint\tp1.dll
+C:\Users\osaka\Desktop\.net\c-repo\tp1\obj\Debug\net9.0\tp1.pdb
+C:\Users\osaka\Desktop\.net\c-repo\tp1\obj\Debug\net9.0\tp1.genruntimeconfig.cache
+C:\Users\osaka\Desktop\.net\c-repo\tp1\obj\Debug\net9.0\ref\tp1.dll
