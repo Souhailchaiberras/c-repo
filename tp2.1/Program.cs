@@ -5,10 +5,10 @@ class Program
 {
     static void Main()
     {
-        // Création d'une instance de GestionEmployes
+       
         GestionEmployes gestionEmployes = new GestionEmployes();
 
-        // Ajout de quelques employés
+        
         try
         {
             gestionEmployes.AjouterEmploye(new Employee { Nom = "Alice", Salaire = 4500, Poste = "Développeur", Date = "2020-05-10" });
@@ -20,18 +20,18 @@ class Program
             Console.WriteLine("❌ Erreur : " + e.Message);
         }
 
-        // Création du directeur (Singleton)
+       
         Directeur directeur = Directeur.GetInstance();
         directeur.SetGestionEmployes(gestionEmployes);
 
-        // Affichage des informations sur l'entreprise
+        
         Console.WriteLine("\n📌 Liste des employés:");
         directeur.AfficherEmployes();
 
         Console.WriteLine($"\n💰 Salaire total de l'entreprise: {directeur.GetSalaireTotal():C}");
         Console.WriteLine($"📊 Salaire moyen des employés: {directeur.GetSalaireMoyen():C}");
 
-        // Suppression d'un employé
+       
         try
         {
             gestionEmployes.SupprimerEmploye(new Employee { Nom = "Alice", Date = "2020-05-10" });
@@ -42,7 +42,7 @@ class Program
             Console.WriteLine("❌ Erreur : " + e.Message);
         }
 
-        // Affichage après suppression
+        
         Console.WriteLine("\n📌 Liste des employés après suppression:");
         directeur.AfficherEmployes();
 
